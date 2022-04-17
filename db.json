@@ -1,0 +1,29 @@
+{
+  "countries": [],
+  "add-city": [
+    {
+      "country": "USA",
+      "city": "NEWTORK",
+      "population": "1545415",
+      "id": 4
+    },
+    {
+      "country": "uk",
+      "city": "lodon",
+      "population": "455522",
+      "id": 5
+    },
+    {
+      "country": "uk",
+      "city": "lodon",
+      "population": "455522",
+      "id": 6
+    },
+    {
+      "country": "China",
+      "city": "Shanghai",
+      "population": "150000",
+      "id": 9
+    }
+  ]
+}
